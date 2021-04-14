@@ -1,0 +1,264 @@
+@media only screen and (max-width:1024px)
+{
+
+    .banner-text {
+        position: absolute;
+        bottom: 500px;
+        left: 230px;
+    }
+    .banner-img {
+        position: absolute;
+        top: 450px;
+        bottom: 0;
+        right: 144px;
+    }
+    .right-arow {
+        position: absolute;
+        top: 585px;
+        bottom: 0;
+        right: 50px;
+    }
+    .left-arow {
+        position: absolute;
+        transform: scale(-1);
+        left: 50px;
+        top: 585px;
+    }
+    .banner {
+        height: 90vh;
+        position: relative;
+        background-image: url(assets/ic_banner.png);
+    }
+    .section {
+        margin-top: 40px;
+        width: 84vw;
+        height: 16vh;
+        margin-left: 66px;
+    }
+    .card1-text {
+        position: absolute;
+        bottom: 10px;
+        left: 42px;
+        color: white;
+        padding: -20px;
+    }
+    .card1-text h6 {
+        padding-top: -20px;
+        margin-left: 4px;
+    }
+    .col-text{
+        margin-left: -43px;
+        margin-top: -46px;
+    }
+    .navbar-nav {
+        margin-left: 8px;
+    }
+    .search {
+        position: absolute;
+        left: 363px;
+        top: 31px;
+    }
+    .navbar-collapse
+{
+    position: absolute;
+    left: 0px;
+    top: 56px;
+    width: 100%;
+    background: rgb(0, 0, 0);
+    padding: 20px;
+}
+}
+
+
+@media only screen and (max-width:600px)
+{
+    .navbar-nav
+{
+    margin:0;
+}
+.navbar-toggler
+{
+background-color: white;
+}
+.navbar-collapse
+{
+    position: absolute;
+    left: 0px;
+    top: 56px;
+    width: 100%;
+    background: rgb(0, 0, 0);
+    padding: 20px;
+}
+.ind {
+    margin-top: 14px;
+    margin-left: -50px;
+}
+.mazu {
+    
+        font-size: 25px;
+        margin-top: 9px;
+        margin-left: -21px;
+        font-weight: 500;
+    
+}
+.upr-icons img {
+    margin-left: 8px;
+    margin-top: 19px;
+}
+.d-flex {
+    /* margin-right: 371px; */
+    /* margin-top: -8px!important; */
+    height: 5vh;
+     margin-bottom: 4px;
+    position: relative;
+    width: 364px;
+    margin-left: -3px;
+}
+.search {
+    position: absolute;
+    left: 330px;
+    top: 10px;
+}
+
+    .left-arow {
+        position: absolute;
+        transform: scale(-1);
+        left: 9px;
+        top: 318px;
+    }
+    .right-arow {
+        position: absolute;
+        top: 318px;
+        bottom: 0;
+        right: 18px;
+    }
+    .banner-img
+    {
+        
+            position: absolute;
+            top: 201px;
+            bottom: 0;
+            right: 25px;
+            width: 100%;
+            height: 200px;
+        transform: scale(0.6);
+    }
+    .banner-text h2 {
+        font-size: 24px;
+        margin-top: -17px;
+    }
+    .banner {
+        height: 65vh;
+        position: relative;
+        background-image: url(assets/ic_banner.png);
+    }
+    .banner-text {
+        position: absolute;
+        bottom: 325px;
+        left: 100px;
+    }
+    .banner-text h5 {
+        margin-top: 20px;
+        font-size: 12px;
+    }
+    .text1
+  {
+      font-size: 40px;
+      font-weight: 400;
+      color: black;
+      margin-top: -36px;
+      margin-right: 11px;
+  }
+   .text-2
+  {
+      margin-right: 20px;
+  }
+  .col-text
+  {
+    text-align: center;
+    margin-left: 28px;
+    margin-top: -100px;
+  }
+  .btn-dark {
+    /* color: #fff; */
+    background-color: #212529;
+    /* border-color: #212529; */
+    width: 100%;
+    margin-top: 26px;
+}
+.crousel-section
+{
+width: 90vw;
+margin-top: 100px;
+margin-left: 0px;
+}
+.carousel-cell {
+    width: 114px;
+    height: 171px;
+    object-fit: cover;
+    margin-right: 10px;
+    /* background: #8C8; */
+    border-radius: 5px;
+    /* counter-increment: carousel-cell; */
+  }
+  .carousel{
+    margin-left: 30px;
+    margin-top: 41px;
+}
+.rm-title {
+    position: absolute;
+    top: -35px;
+    left: 10px;
+    font-size: 20px;
+}
+.section{
+    margin-left: 18px;
+    height: 72vh;
+}
+.recomended {
+    height: 9vh;
+    position: relative;
+    background-image: url(assets/ic_img5.png);
+    background-repeat: no-repeat;
+    margin-top: 70px;
+    background-size: cover;
+    
+}
+.card1 {
+     
+        position: relative;
+        margin-bottom: 20px;
+        margin-left: 23px;
+    
+}
+.card1-text {
+    position: absolute;
+    bottom: 58px;
+    left: 52px;
+    color: white;
+    padding: -20px;
+}
+.card1-text h6 {
+    padding-top: -20px;
+    margin-left: 39px;
+}
+.footer {
+    
+        background-color: rgb(211, 207, 207);
+        height: 90vh;
+        margin-top: 618px;
+    
+}
+
+    .txt1 {
+        margin-top: 32px;
+        margin-left: 12px;
+    }
+    .copyright
+    {
+        padding-top: 11px;
+    }
+
+    
+}
+

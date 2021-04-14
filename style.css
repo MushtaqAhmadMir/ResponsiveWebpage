@@ -1,0 +1,256 @@
+.upper-nav
+{
+    height: 8vh;
+    
+}
+.upr-icons img
+{
+    margin-left: 30px;
+   margin-top: 20px!important;
+}
+.ind
+{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.mazu
+{
+    font-size: 25px;
+    margin-top: 6px;
+    margin-left: 50px;
+    font-weight: 500;
+}
+.upper-nav .row{
+    margin-left: 40px;
+
+}
+/* nav css */
+.navbar-nav
+{
+    margin-left: 330px;
+}
+.d-flex
+{
+    margin-right: 350px;
+  margin-top: -8px!important;
+  height: 8vh;
+  margin-bottom: -8px;
+  position: relative;
+}
+.form-control
+{
+    border-radius: 0!important;
+}
+.search
+{
+    position: absolute;
+    left: 180px;
+    top: 20px;
+}
+/* banner css */
+.banner
+{
+    height: 80vh;
+    position: relative;
+    background-image: url("assets/ic_banner.png");
+}
+.right-arow
+{
+position: absolute;
+top: 260px;
+bottom: 0;
+right: 50px;
+}
+.left-arow
+{
+position: absolute;
+transform: scale(-1);
+left: 50px;
+top: 260px;
+}
+.banner-img
+{
+    position: absolute;
+    top: 90px;
+    bottom: 0;
+    right: 90px;
+
+}
+.banner-text
+{
+    position: absolute;
+    
+    bottom: 100px;
+    left: 230px;
+}
+.banner-text h2
+{
+    font-size: 50px;
+    margin-top: 20px;
+}
+.banner-text h5
+{
+    
+    margin-top: 20px;
+}
+
+.text-5
+{
+    display: flex;
+    color: gray;
+
+}
+.shop-now
+{
+    margin-left: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.plus
+{
+    font-size: 30px;
+}
+/* row and crousel css */
+
+
+.crousel-section
+{
+width: 90vw;
+margin-top: 60px;
+margin-left: 75px;
+}
+.carousel {
+    background: #EEE;
+  }
+  
+  .carousel-cell {
+    width: 228px;
+    height: 341px;
+    margin-right: 10px;
+    /* background: #8C8; */
+    border-radius: 5px;
+    /* counter-increment: carousel-cell; */
+  }
+  
+  .carousel-cell.is-selected {
+    /* background: #ED2; */
+  }
+  
+  /* cell number */
+  .carousel-cell:before {
+    display: block;
+    text-align: center;
+    /* content: counter(carousel-cell); */
+    line-height: 200px;
+    font-size: 80px;
+    color: white;
+  }
+  .text1
+  {
+      font-size: 60px;
+      font-weight: 400;
+      color: black;
+      margin-top: 45px;
+      margin-right: 11px;
+  }
+  .btn-dark {
+    color: #fff;
+    background-color: #212529;
+    border-color: #212529;
+    width: 100%;
+    margin-top: 70px;
+    
+  }
+  .recomended
+{
+    height: 50vh;
+    position: relative;
+    background-image: url("assets/ic_img5.png");
+    background-repeat: no-repeat;
+    margin-top: 70px;
+    background-size: cover;
+}
+
+  .rm-title
+  {
+    position: absolute;
+    top: -50px;
+    left: 0;
+   font-size: 60px;
+  }
+  .section
+  {
+      margin-top: 40px;
+      width: 90vw;
+      height: 60vh;
+      margin-left: 80px;
+  }
+  .card1
+  {
+      position: relative;
+  }
+  .card1-text
+  {
+      position: absolute;
+     bottom: 10px;
+      left: 100px;
+      color: white;
+      padding: -20px;
+  }
+  .card1-text h6{
+   padding-top: -20px;
+      margin-left: 60px;
+  }
+  .footer
+  {
+      background-color: rgb(211, 207, 207);
+      height: 40vh;
+      margin-top: 150px;
+  }
+  .txt1
+  {
+    margin-top: 60px;
+    margin-left: 80px;
+    
+  }
+  .icons
+  {
+      margin-top: 10px;
+  }
+  .icons img
+  {
+      padding-right: 10px;
+  }
+  .icon-part
+  {
+    margin-top: 40px;
+  }
+  .apps
+  {
+      margin-top: 10px;
+  }
+  .apps img
+  {
+      margin-top: 8px;
+  }
+  .social-med
+  {
+margin: 20px;
+  }
+  .social-med img
+  {
+padding-right: 20px ;
+  }
+  footer
+  {
+      justify-content: center;
+  }
+  .footer2
+  {
+      height: 6vh;
+      background-color: black;
+      color: white;
+      text-align: center;
+      justify-content: center;
+  }
+  
