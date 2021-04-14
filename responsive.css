@@ -136,7 +136,7 @@ background-color: white;
     {
         
             position: absolute;
-            top: 201px;
+            top: 117px;
             bottom: 0;
             right: 25px;
             width: 100%;
@@ -245,8 +245,8 @@ margin-left: 0px;
 .footer {
     
         background-color: rgb(211, 207, 207);
-        height: 90vh;
-        margin-top: 618px;
+        height: 100vh;
+        margin-top: 775px;
     
 }
 
